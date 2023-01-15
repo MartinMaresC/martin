@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import React, { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 import email from './email.png';
-import whatsapp from './telephone.png';
+import whatsapp from './whatsapp.png';
 import posicion from './marcador-de-posicion.png';
 
 
