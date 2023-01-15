@@ -73,8 +73,11 @@ form {
   .contacto {
     flex-direction: column;
   }
+  .titulo {
+    max-width: 380px;
+  }
   form {
-    width: 400px;
+    width: 380px;
     padding: 5px;
     margin-bottom: 15px;
     margin-right: 0;
